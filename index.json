@@ -1,0 +1,95 @@
+{
+  "html": {
+    "lang": "en",
+    "title": "Marcos Carrasco",
+    "description": "Follow me on all my socials",
+    "favicon": "/favicon.svg"
+  },
+  "background": {
+    "firstColor": "#83ccf7",
+    "secondColor": "#11a3f7"
+  },
+  "header": {
+    "image": "/logoRefriLavadora-2.jpg",
+    "alt": "The owner of this website.",
+    "title": "Refrilavadoras",
+    "description": "Servicio técnico de línea blanca",
+    "textColor": "white"
+  },
+  "socials": [
+    {
+      "network": "GitHub",
+      "username": "marcosklender",
+      "url": "https://github.com/marcosklender"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "marcosklender",
+      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
+    },
+    {
+      "network": "Instagram",
+      "username": "marcosklender",
+      "url": "https://www.instagram.com/marcosklender"
+    },
+    {
+      "network": "Mail",
+      "username": "marcosklender",
+      "url": "mailto:marcosklender@gmail.com"
+    },
+    {
+      "network": "Link",
+      "username": "JSONLinks",
+      "url": "https://jsonlinks.netlify.app/templates"
+    }
+  ],
+  "featured": [
+    {
+      "network": "GitHub",
+      "url": "#",
+      "title": "Refrilavadoras",
+      "textColor": "#FFF",
+      "backgroundImage": "/screen-wievPort.jpg",
+      "backgroundColor": null,
+      "borderRadius": ".75rem"
+    }
+  ],
+  "buttons": [
+    {
+      "network": "Whatsapp",
+      "url": "https://wa.me/573245293765?text=Estoy%20interesado%20en%20tus%20servicios",
+      "title": "Contáctame vía WhatsApp",
+      "textColor": "#FFF",
+      "backgroundColor": "#1b66ff",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/refrilavadora_co/",
+      "title": "Sígueme en Instagram",
+      "textColor": "#FFF",
+      "backgroundColor": "#1b66ff",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Facebook",
+      "url": "https://www.facebook.com/refri.lavadora/",
+      "title": "Sígueme en Facebook",
+      "textColor": "#FFF",
+      "backgroundColor": "#1b66ff",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "TikTok",
+      "url": "https://www.tiktok.com/@morocho.tcnico",
+      "title": "Sígueme en Tiktok",
+      "textColor": "#FFF",
+      "backgroundColor": "#1b66ff",
+      "borderRadius": ".75rem"
+    }
+  ],
+  "footer": {
+    "copyright": "-`ღ´- Mendozalz",
+    "url": "https://mendozalz.vercel.app/"
+  }
+}
