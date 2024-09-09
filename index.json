@@ -1,8 +1,8 @@
 {
   "html": {
     "lang": "en",
-    "title": "Marcos Carrasco",
-    "description": "Follow me on all my socials",
+    "title": "Refrilavadora",
+    "description": "Servicio técnico de línea blanca",
     "favicon": "/favicon.svg"
   },
   "background": {
@@ -11,7 +11,7 @@
   },
   "header": {
     "image": "/logoRefriLavadora-2.jpg",
-    "alt": "The owner of this website.",
+    "alt": "Logotipo de la marca",
     "title": "Refrilavadoras",
     "description": "Servicio técnico de línea blanca",
     "textColor": "white"

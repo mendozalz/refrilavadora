@@ -1,5 +1,6 @@
 ---
 import { html, background } from "index.json";
+import MetaPixel from "../components/MetaPixel.astro";
 
 const { lang, title, description, favicon } = html;
 const { firstColor, secondColor } = background;
@@ -15,6 +16,7 @@ const { firstColor, secondColor } = background;
     <meta name="generator" content={Astro.generator} />
     <meta name="theme-color" content={`${firstColor}`} />
     <title>{title}</title>
+    <MetaPixel/>
   </head>
   <body>
     <slot />
