@@ -1,16 +1,16 @@
 {
   "html": {
-    "lang": "en",
+    "lang": "es",
     "title": "Refrilavadora",
     "description": "Servicio técnico de línea blanca",
-    "favicon": "/favicon.svg"
+    "favicon": "/favicon.jpeg"
   },
   "background": {
     "firstColor": "#83ccf7",
     "secondColor": "#11a3f7"
   },
   "header": {
-    "image": "/logoRefriLavadora-2.jpg",
+    "image": "/logo.jpeg",
     "alt": "Logotipo de la marca",
     "title": "Refrilavadoras",
     "description": "Servicio técnico de línea blanca",
@@ -19,28 +19,28 @@
   "socials": [
     {
       "network": "GitHub",
-      "username": "marcosklender",
-      "url": "https://github.com/marcosklender"
+      "username": "mendozalz",
+      "url": "https://github.com/mendozalz"
     },
     {
       "network": "LinkedIn",
-      "username": "marcosklender",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
+      "username": "mendozalz",
+      "url": "#S"
     },
     {
       "network": "Instagram",
-      "username": "marcosklender",
-      "url": "https://www.instagram.com/marcosklender"
+      "username": "mendozalz",
+      "url": "#"
     },
     {
       "network": "Mail",
-      "username": "marcosklender",
+      "username": "mendozalz",
       "url": "mailto:marcosklender@gmail.com"
     },
     {
       "network": "Link",
       "username": "JSONLinks",
-      "url": "https://jsonlinks.netlify.app/templates"
+      "url": "#"
     }
   ],
   "featured": [
@@ -49,9 +49,10 @@
       "url": "#",
       "title": "Refrilavadoras",
       "textColor": "#FFF",
-      "backgroundImage": "/screen-wievPort.jpg",
+      "backgroundImage": "/refrilavadoras_banner.png",
       "backgroundColor": null,
-      "borderRadius": ".75rem"
+      "borderRadius": ".75rem",
+      "objetFit": "contain"
     }
   ],
   "buttons": [
