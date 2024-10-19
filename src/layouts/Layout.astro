@@ -2,6 +2,7 @@
 import { html, background } from "index.json";
 import MetaPixel from "../components/MetaPixel.astro";
 import MetaPixelLenin from "@/components/MetaPixelLenin.astro";
+import PixelTiktok from "@/components/PixelTiktok.astro";
 
 const { lang, title, description, favicon } = html;
 const { firstColor, secondColor } = background;
@@ -17,7 +18,8 @@ const { firstColor, secondColor } = background;
     <meta name="generator" content={Astro.generator} />
     <meta name="theme-color" content={`${firstColor}`} />
     <title>{title}</title>
-    <MetaPixel/>
+    <MetaPixel />
+    <PixelTiktok />
   </head>
   <body>
     <slot />
